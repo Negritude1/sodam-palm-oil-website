@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sodam-palm-oil-website.vercel.app/sitemap.xml
