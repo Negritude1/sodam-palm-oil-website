@@ -595,6 +595,14 @@ nav {
     font-size: 16px;
     color: white;
 }
+.contact-details a {
+    color: white;
+    text-decoration: none;
+}
+
+.contact-details a:hover {
+    color: #e6a817;
+}
 
 .contact-form {
     width: 50%;
