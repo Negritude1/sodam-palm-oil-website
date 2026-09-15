@@ -722,15 +722,16 @@ footer {
     color: #d1d5db;
     font-size: 14px;
     margin-bottom: 10px;
-}
-.footer-details a {
-    color: white;
+} 
+.footer-contact a {
+    color: #d1d5db;
     text-decoration: none;
 }
 
-.footer-details a:hover {
+.footer-contact a:hover {
     color: #e6a817;
 }
+
 
 .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, 0.15);
